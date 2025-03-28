@@ -15,7 +15,7 @@ For example, there are three people: Mom, Dad, Girlfriend, I’d like them to si
 
 ```
 Mom: Happy
-Dad: birthday
+Dad: birthday hello
 Girlfriend: to
 Mom: you
 Dad: Happy
